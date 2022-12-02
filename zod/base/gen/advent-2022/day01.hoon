@@ -1,4 +1,4 @@
-/*  puzzle-input  %txt  /advent-2022/day1/txt
+/*  puzzle-input  %txt  /advent-2022/day01/txt
 
 :-  %say
 |=  *
