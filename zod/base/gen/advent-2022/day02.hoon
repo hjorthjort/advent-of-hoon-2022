@@ -4,4 +4,4 @@
 :-  %say
 |=  *
 :-  %noun
-    [one=(part-one puzzle-input) two=%2]
+    [one=(part-one puzzle-input) two=(part-two puzzle-input)]
