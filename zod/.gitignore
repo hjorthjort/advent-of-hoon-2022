@@ -6,7 +6,5 @@
 
 # But not these files...
 !.gitignore
-!base/advent-2022/**
-!base/gen/advent-2022/**
-!base/tests/**
+!**/advent-2022/**
 
