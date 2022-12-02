@@ -2,9 +2,8 @@
 
 :-  %say
 |=  *
-=<  :+  %noun
-       [%1 part-one]
-    [%2 part-two]
+=<  :-  %noun
+       [one=part-one two=part-two]
 |%
     ++  input
         %+  turn  puzzle-input
